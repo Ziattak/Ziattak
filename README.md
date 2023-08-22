@@ -5,6 +5,5 @@
 - 📫 How to reach me: I'm not usually on the computer on a regular basis, so you can try and go on GitHub at any random moment and, hey, I might be there!
 
 <!---
-Ziattak/Ziattak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I haven't begun my Minecraft mod yet, but I will let you kn ow when I begin it!
 --->
